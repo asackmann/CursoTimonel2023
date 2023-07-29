@@ -1,12 +1,8 @@
 ![logo](_media/icon.svg)
 
-# docsify <small>3.5</small>
+# Curso de Timonel CNSI <small>2023</small>
 
-> A magical documentation site generator.
+> Notas de clase.
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
-
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[GitHub](https://github.com/asackmann/CursoTimonel2023)
+[Get Started](#cursotimonel2023)
