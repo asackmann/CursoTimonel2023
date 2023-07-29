@@ -1,4 +1,4 @@
-![logo](_media/icon.svg)
+![logo](images/sailboat/favicon-32x32.png)
 
 # Curso de Timonel CNSI <small>2023</small>
 
