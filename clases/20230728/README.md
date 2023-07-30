@@ -1,28 +1,19 @@
+- [Fechas](#fechas)
+- [Modalidad](#modalidad)
+- [Barcos](#barcos)
 - [Problemas](#problemas)
 	- [1. Rumbo](#1-rumbo)
 	- [2. Pocision](#2-pocision)
 	- [3. Distancia](#3-distancia)
 	- [4. Agua](#4-agua)
 
-
-20230728. Curso Timonel.txt
+# Fechas
+- Examen Escrito - jueves 07 de diciembre
+- Examen Oral – jueves 14 de diciembre
+- Examen Practico – sábado 16 de diciembre // Puede llegar a ser Viernes. 15 dic.
+- Viajes a Colonia en el Barco Náutico – 14 y 15 de octubre –18 y 19 de noviembre (Fechas tentativas)
 ---
-
-Leonel E. Lalin
-Cel 1141195XXXX
-instrucciondeyachting@gmail.com
-
----
-
-Anotado en el curso los sábados por la mañana. Te paso las fechas de exámenes y viaje a Colonia de cierre de curso. TODAS SON FECHAS TENTATIVAS
- 
-Examen Escrito - jueves 07 de diciembre
-Examen Oral – jueves 14 de diciembre
-Examen Practico – sábado 16 de diciembre // Puede llegar a ser Viernes. 15 dic.
-Viajes a Colonia en el Barco Náutico – 14 y 15 de octubre –18 y 19 de noviembre (Fechas tentativas)
-
----
-
+# Modalidad
 - 20 clases teoricas 
 	- Viernes 19hs.
 - 20 clases practicas
@@ -32,18 +23,25 @@ Viajes a Colonia en el Barco Náutico – 14 y 15 de octubre –18 y 19 de novie
 	- ultimas 5 clases todo el dia de 9.30 a 16.hs
 - Talo, Ken, para consultar dudas se le avisa y te juntas en la sala de yatching.
 
+-----------------
+
+# Barcos
 - 2 parciales o 1. para ver como estas parado.
 - Rio de la Plata, Avan, Mistic, J24, Dolphing 32pies., Nautico II.
 	- Dolphing II, hace salidas miercoles, viernes y algun finde. Capitanes voluntarios a tener el mando.
   	- Cuando te anotas poner en Observaciones: Soy del curso de timonel.
 
----
-Puertos habilitados para timonel. - 12 mts de eslora. habilitados
-	Colonia, Riachuelo, conchillas, san juan.
-	A vista de costa. rosario y atalaya es el limite.
-	Rio de la plata medio a exterior. a vista de costa.
----
+-----------------
+> Pregunta de parcial 
+> Puertos habilitados para timonel. - 12 mts de eslora. habilitados
+> 	Colonia, Riachuelo, conchillas, san juan.
+> 	A vista de costa. rosario y atalaya es el limite.
+> 	Rio de la plata medio a exterior. a vista de costa.
+--------------------
 # Problemas
+
+
+![Alt text](images/pizzaron3.png)
 
 ## 1. Rumbo
 	> A donde voy?
@@ -110,7 +108,7 @@ Puertos habilitados para timonel. - 12 mts de eslora. habilitados
 		> P = C + MS / Profundidad es calado mas el margen de seguridad.
 
 
------
+-----------------
 COMPRAR
 -- CARTAS . 4ta CLASE.
 	- H-118 
@@ -121,5 +119,3 @@ COMPRAR
 
 
 
-
-![Alt text](images/pizzaron3.png)

@@ -1,6 +1,8 @@
 ![logo](images/sailboat/favicon-32x32.png)
 
-# Curso de Timonel CNSI <small>2023</small>
+# Curso de Timonel
+
+<small>2do Semestre 2023</small>
 
 > Notas de clase.
 
