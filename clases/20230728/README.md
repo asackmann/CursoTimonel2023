@@ -7,7 +7,7 @@
 			- [P. Profundidad](#p-profundidad)
 			- [C. CALADO.](#c-calado)
 			- [MS. MARGEN DE SEGURIDAD.](#ms-margen-de-seguridad)
-		- [Formula](#formula)
+			- [Formula](#formula)
 - [COMPRAR](#comprar)
 
 
@@ -91,7 +91,7 @@ De la punta de la quilla inferio, hasta la linea de flotaciion es la cota
 ####  MS. MARGEN DE SEGURIDAD. 
 Entre el lecho y el calado. 
 
-### Formula
+#### Formula
 -  P = C + MS 
 -  Profundidad es calado mas el margen de seguridad.
 
