@@ -122,4 +122,4 @@ COMPRAR
 
 
 
-![Alt text](pizzaron2.jpeg)
+![Alt text](ima\images/pizzaron2.png)
