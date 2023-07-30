@@ -12,7 +12,7 @@
 
 # Introducción teórica de la práctica en Yachting
 
-[Introducción teórica de la práctica en Yachting.pdf](./clases/20230729/attch/Introducción teórica de la práctica en Yachting.pdf)
+[Introducción teórica de la práctica en Yachting.pdf](./clases/20230729/attch/Introducci%C3%B3n%20te%C3%B3rica%20de%20la%20pr%C3%A1ctica%20en%20Yachting.pdf)
 
 ![aerodinamica1](./images/cenida.png)
 ![aerodinamica1](./images/empuje.png)
