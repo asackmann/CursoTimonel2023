@@ -1,5 +1,3 @@
-# Overview
-
-![Overview in a doodle](sketchnotes/ai-overview.png)
-
-> Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
+* [Clases](./README.md)
+  - [20230728 - TEORIA - Intro](./20230728/README.md)
+  - [20230729 - PRACTICA - Principios dinamica navegacion](./20230729/README.md)
