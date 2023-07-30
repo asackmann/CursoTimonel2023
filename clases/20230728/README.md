@@ -13,11 +13,12 @@
 
 
 -----------------
-> Pregunta de parcial 
-> Puertos habilitados para timonel. - 12 mts de eslora. habilitados
-> 	Colonia, Riachuelo, conchillas, san juan.
-> 	A vista de costa. rosario y atalaya es el limite.
-> 	Rio de la plata medio a exterior. a vista de costa.
+> NOTA // Pregunta de parcial 
+> - Puertos habilitados para timonel ??
+>   - 12 mts de eslora. habilitados
+> 	- Colonia, Riachuelo, conchillas, san juan.
+> 	- A vista de costa. rosario y atalaya es el limite.
+> 	- Rio de la plata medio a exterior. a vista de costa.
 --------------------
 # Problemas
 
