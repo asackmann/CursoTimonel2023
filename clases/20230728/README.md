@@ -122,4 +122,4 @@ COMPRAR
 
 
 
-![Alt text](images/pizzaron2.png)
+![Alt text](images/pizzaron3.png)
