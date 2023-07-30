@@ -22,11 +22,11 @@
 		- 13 a 16hs. TARDE
 	- ultimas 5 clases todo el dia de 9.30 a 16.hs
 - Talo, Ken, para consultar dudas se le avisa y te juntas en la sala de yatching.
+- 2 parciales o 1. para ver como estas parado.
 
 -----------------
 
 # Barcos
-- 2 parciales o 1. para ver como estas parado.
 - Rio de la Plata, Avan, Mistic, J24, Dolphing 32pies., Nautico II.
 	- Dolphing II, hace salidas miercoles, viernes y algun finde. Capitanes voluntarios a tener el mando.
   	- Cuando te anotas poner en Observaciones: Soy del curso de timonel.
