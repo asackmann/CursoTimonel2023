@@ -4,10 +4,10 @@
 # Pizarron
 
 ![Alt text](./images/pizarron1.jpeg)
-![Alt text](./images/pizarron1.jpeg)
-![Alt text](./images/pizarron1.jpeg)
-![Alt text](./images/pizarron1.jpeg)
-![Alt text](./images/pizarron1.jpeg)
+![Alt text](./images/pizarron2.jpeg)
+![Alt text](./images/pizarron3.jpeg)
+![Alt text](./images/pizarron4.jpeg)
+![Alt text](./images/pizarron5.jpeg)
 
 
 # Introducción teórica de la práctica en Yachting
