@@ -7,4 +7,4 @@
 > Notas de clase.
 
 [GitHub](https://github.com/asackmann/CursoTimonel2023)
-[Get Started](#cursotimonel2023)
+[Get Started](#curso-timonel-2do-semestre-2023)

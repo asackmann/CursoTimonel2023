@@ -1,1 +1,2 @@
+[Home](/)
 [Clases](clases/)
