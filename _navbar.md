@@ -1,1 +1,1 @@
-[Lessons](lessons/)
+[Clases](clases/)

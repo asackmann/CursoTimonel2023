@@ -1,3 +1,4 @@
-[Lessons](lessons/README.md)
-* [1-Intro](lessons/1-Intro/assignment.md)
-* [2-Symbolic](./lessons/2-Symbolic/assignment.md)
+* [Home](/)
+* [Clases](clases/README.md)
+  * [20230728 - TEORIA - Intro](./clases/20230728/README.md)
+  * [20230728 - PRACTICA - Principios dinamica navegacion](./clases/20230729/README.md)
