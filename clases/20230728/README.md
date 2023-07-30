@@ -1,8 +1,8 @@
 - [Problemas](#problemas)
-  - [1. Rumbo](#1-rumbo)
-  - [2. Pocision](#2-pocision)
-  - [3. Distancia](#3-distancia)
-  - [4. Agua](#4-agua)
+	- [1. Rumbo](#1-rumbo)
+	- [2. Pocision](#2-pocision)
+	- [3. Distancia](#3-distancia)
+	- [4. Agua](#4-agua)
 
 
 20230728. Curso Timonel.txt
@@ -122,4 +122,4 @@ COMPRAR
 
 
 
-![Alt text](ima\images/pizzaron2.png)
+![Alt text](images/pizzaron2.png)
