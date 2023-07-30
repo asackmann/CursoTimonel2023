@@ -1,5 +1,6 @@
-# Knowledge Representation and Expert Systems
+# Introducción teórica de la práctica en Yachting
 
+[Introducción teórica de la práctica en Yachting.pdf](./attch/Introducción teórica de la práctica en Yachting.pdf)
 
 ![aerodinamica1](./images/cenida.png)
 ![aerodinamica1](./images/empuje.png)
