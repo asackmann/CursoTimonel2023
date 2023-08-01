@@ -1,8 +1,8 @@
-- [Tenas tratados](#tenas-tratados)
+- [Temas tratados](#temas-tratados)
   - [Pizarron](#pizarron)
 - [Introducción teórica de la práctica en Yachting](#introducción-teórica-de-la-práctica-en-yachting)
 
-# Tenas tratados
+# Temas tratados
  En esta clase se tocaron los siguientes temas
  - Ejes del barco, rolar, cabecear, escorar.
  - Direccion de la fuerza del viento, ceñida, traves, aleta, popa, popa redonda.
