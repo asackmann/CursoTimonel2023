@@ -1,13 +1,13 @@
 - [Problemas](#problemas)
-	- [1. Rumbo](#1-rumbo)
-	- [2. Posición](#2-posición)
-	- [3. Distancia](#3-distancia)
-	- [4. Agua](#4-agua)
-		- [COTAS](#cotas)
-			- [P. Profundidad](#p-profundidad)
-			- [C. CALADO.](#c-calado)
-			- [MS. MARGEN DE SEGURIDAD.](#ms-margen-de-seguridad)
-			- [Fórmula](#fórmula)
+  - [1. Rumbo](#1-rumbo)
+  - [2. Posición](#2-posición)
+  - [3. Distancia](#3-distancia)
+  - [4. Agua](#4-agua)
+    - [COTAS](#cotas)
+      - [P. Profundidad](#p-profundidad)
+      - [C. CALADO.](#c-calado)
+      - [MS. MARGEN DE SEGURIDAD.](#ms-margen-de-seguridad)
+      - [Fórmula](#fórmula)
 - [COMPRAR](#comprar)
 
 
@@ -43,6 +43,7 @@
   > Clase que viene se ataca en frofundidad este tema.
 
 ## 2. Posición
+
  -  ¿Dónde estoy?
  -  6 // fi = Latitud
  -  W // omega = Longitud
@@ -54,10 +55,11 @@
      -  Cuando te acercas para URU la lat es 57 W.
 
  -  Grados minutos segundos
- -  
- -  Ante una emergencia SE ANOTA donde estoy, a donde voy, velocidad
+
+ >  Ante una emergencia SE ANOTA donde estoy, a donde voy, velocidad
 
 ## 3. Distancia
+
  -  Velocidad x tiempo
  -  D = v*t
  -  Navegación por estima se llama, cuando trabajas velocidad y tiempo.
@@ -76,19 +78,19 @@ La distancia del agua al lecho
 >  Linea de flotacion en el barco donde esta el agua.
 ####  C. CALADO. 
 De la punta de la quilla inferior, hasta la línea de flotación, es la cota  
-         -  Río de la plata cala con la orsa arriba .90 cm, abajo 1.30 M. cuando toca la orsa se mete sola y evita que se doble. Si no el barco calaba 1.45cm.  Camina de ronza, no va derecho, 3 adelante y uno costado. Las orsas, quillas, steth dan estabilidad de rumbo y transversal. 
-         -  El río de la plata tiene un calado variable. 
-         -  Avan 
-                1.15 M
-         -  Mistic 
-                1.30 M, watambu 1.20
-         -  J24
-                1.40 M
-         -  Soling
-                1.40 M
-         -  Lining
-                1.10 M, el timón .8
-     -  Primero levantas timón y luego la orsa, si no reventas espejo de popa y sink.
+  -  Río de la plata cala con la orsa arriba .90 cm, abajo 1.30 M. cuando toca la orsa se mete sola y evita que se doble. Si no el barco calaba 1.45cm.  Camina de ronza, no va derecho, 3 adelante y uno costado. Las orsas, quillas, steth dan estabilidad de rumbo y transversal. 
+  -  El río de la plata tiene un calado variable. 
+  -  Avan 
+         1.15 M
+  -  Mistic 
+         1.30 M, watambu 1.20
+  -  J24
+         1.40 M
+  -  Soling
+         1.40 M
+  -  Lining
+         1.10 M, el timón .8
+> Primero levantas timón y luego la orsa, si no reventas espejo de popa y sink.
 ####  MS. MARGEN DE SEGURIDAD. 
 Entre el lecho y el calado. 
 
