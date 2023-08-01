@@ -1,11 +1,31 @@
 
+- [Certificado de Timonel de Yate](#certificado-de-timonel-de-yate)
 - [Curso Timonel 2do Sem 2023](#curso-timonel-2do-sem-2023)
 	- [Fechas](#fechas)
 	- [Modalidad](#modalidad)
 	- [Barcos](#barcos)
 
+
+# Certificado de Timonel de Yate
+
+> [Prefectura Naval - Programa de examen para timonel de yate](https://www.argentina.gob.ar/prefecturanaval/programa-de-examen-para-timonel-de-yate)
+> [Obtener el certificado de Timonel de Yate](https://www.argentina.gob.ar/servicio/obtener-el-certificado-de-timonel-de-yate)
+
+
+La Prefectura Naval Argentina permite obtener el certificado náutico deportivo en las categorías: 
+- Timonel de yate a vela
+- Timonel de yate a motor
+- Timonel de yate a vela y motor
+
+Para manejar embarcaciones deportivas de hasta 12 metros de eslora que realicen navegación:
+  - Lacustre y ríos interiores; en toda su extensión.
+  - Río de la Plata: pudiendo alcanzar costas y puertos uruguayos con los siguientes límites de alejamientos; al oeste de la línea imaginaria que une Punta Atalaya (ARG) con Punta Rosario (República Oriental del Uruguay en proximidades a Juan Lacaze).
+  - En otras zonas del Río de la Plata y en zona marítima hasta cinco millas náuticas (5MN) de la costa o los lugares que establezca la Prefectura jurisdiccional.
+
+
 # Curso Timonel 2do Sem 2023
 
+Timonel de yate a vela y motor
 
 ## Fechas
 - Examen Escrito - jueves 07 de diciembre
