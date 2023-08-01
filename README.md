@@ -8,8 +8,8 @@
 
 # Certificado de Timonel de Yate
 
-> [Prefectura Naval - Programa de examen para timonel de yate](https://www.argentina.gob.ar/prefecturanaval/programa-de-examen-para-timonel-de-yate)
-> [Obtener el certificado de Timonel de Yate](https://www.argentina.gob.ar/servicio/obtener-el-certificado-de-timonel-de-yate)
+> - [Prefectura Naval - Programa de examen para timonel de yate](https://www.argentina.gob.ar/prefecturanaval/programa-de-examen-para-timonel-de-yate)
+> - [Obtener el certificado de Timonel de Yate](https://www.argentina.gob.ar/servicio/obtener-el-certificado-de-timonel-de-yate)
 
 
 La Prefectura Naval Argentina permite obtener el certificado náutico deportivo en las categorías: 
