@@ -6,6 +6,7 @@
 
 # Curso Timonel 2do Sem 2023
 
+
 ## Fechas
 - Examen Escrito - jueves 07 de diciembre
 - Examen Oral – jueves 14 de diciembre
