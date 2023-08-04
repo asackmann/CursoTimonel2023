@@ -1,4 +1,3 @@
 * [Home](/)
-* [Recursos](recursos.md) 
-  * [Videos](videos.md) 
 * [Clases](clases/README.md)
+* [Recursos](recursos.md) 
