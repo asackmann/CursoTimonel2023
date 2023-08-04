@@ -1,5 +1,5 @@
 * [Home](/)
-* [Recursos](Recursos.md) 
+* [Recursos](recursos.md) 
   * [Videos](videos.md) 
 * [Clases](clases/README.md)
   - [20230728 - TEORIA - Intro](./clases/20230728/README.md)
