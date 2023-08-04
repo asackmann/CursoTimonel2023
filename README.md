@@ -1,4 +1,7 @@
 
+
+![](_media/bg.jpeg) 
+
 https://asackmann.github.io/CursoTimonel2023/
 
 - [Certificado de Timonel de Yate](#certificado-de-timonel-de-yate)
