@@ -1,4 +1,4 @@
-![logo](images/sailboat/favicon-32x32.png)
+![logo](images/CNSI.png)
 
 # Curso de Timonel
 
