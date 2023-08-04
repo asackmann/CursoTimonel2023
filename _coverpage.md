@@ -9,6 +9,7 @@
 
 
 [Comenzar](#certificado-de-timonel-de-yate)
+[Clases](clases/README.md)
 
 <!-- background image ![](_media/bg.jpeg) -->
 
