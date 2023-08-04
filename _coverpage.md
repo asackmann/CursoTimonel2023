@@ -10,6 +10,6 @@
 
 [Comenzar](#certificado-de-timonel-de-yate)
 
-<!-- background image -->
+<!-- background image ![](_media/bg.jpeg) -->
 
-![](_media/bg.jpeg)
+
