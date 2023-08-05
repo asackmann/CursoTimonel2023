@@ -17,8 +17,12 @@
 > - Puertos habilitados para timonel ??
 >   - 12 mts de eslora. habilitados
 >   - Colonia, Riachuelo, conchillas, san juan.
->   - A vista de costa. rosario y atalaya es el limite.
->   - Rio de la plata medio a exterior. a vista de costa.
+>   - A vista de costa. 
+>   - Rio de la plata medio a exterior.
+>   - Río de la Plata: pudiendo alcanzar costas y puertos uruguayos con los siguientes límites de alejamientos;
+>      -  al oeste de la línea imaginaria que une 
+>         - Punta Atalaya (ARG) con 
+>         - Punta Rosario (República Oriental del Uruguay en proximidades a Juan Lacaze).
 --------------------
 # Problemas
 

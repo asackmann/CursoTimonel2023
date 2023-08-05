@@ -2,7 +2,7 @@
 
 ![](_media/bg.jpeg) 
 
-https://asackmann.github.io/CursoTimonel2023/
+https://asackmann.github.io/CursoTim2onel2023/
 
 - [Certificado de Timonel de Yate](#certificado-de-timonel-de-yate)
 - [Curso Timonel 2do Sem 2023](#curso-timonel-2do-sem-2023)
