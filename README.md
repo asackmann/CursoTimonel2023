@@ -9,6 +9,7 @@ https://asackmann.github.io/CursoTimonel2023/
 	- [Fechas](#fechas)
 	- [Modalidad](#modalidad)
 	- [Barcos](#barcos)
+		- [Clase Rio de la Plata](#clase-rio-de-la-plata)
 
 
 # Certificado de Timonel de Yate
@@ -56,3 +57,24 @@ Timonel de yate a vela y motor
 	- Dolphing II, hace salidas miercoles, viernes y algun finde. Capitanes voluntarios a tener el mando.
   	- Cuando te anotas poner en Observaciones: Soy del curso de timonel.
 
+
+
+### Clase Rio de la Plata
+
+https://www.facebook.com/groups/claseriodelaplata/
+
+
+ ![](./images/rio.de.la.plata.junco.cnsi.jpg)
+
+ ![](./images/NOTA.clase.rio.de.la.plata.jpg)
+
+
+ ![](./images/video.laurel.mp4)
+
+<video controls>
+  <source src="./images/video.laurel.mp4" type="video/mp4">
+</video>
+
+ > https://www.facebook.com/reel/1533333360380539
+
+El Laurel ayer, con Nico Volpini al timón, en una de las postales clásicas de nuestro río. Con 100 años de actividad, la escuela del C.N.S.I. continúa formando timoneles en un tradicional yacht de Argentina.  
