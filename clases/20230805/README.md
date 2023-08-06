@@ -1,6 +1,7 @@
 - [2023/08/05 - PRACTICA - Primer salida con un Rio de la Plata](#20230805---practica---primer-salida-con-un-rio-de-la-plata)
   - [Armado del barco](#armado-del-barco)
   - [Fuerzas que intervienen en la salida](#fuerzas-que-intervienen-en-la-salida)
+  - [Navegacion](#navegacion)
   - [Amarrar el barco](#amarrar-el-barco)
   - [Nudos](#nudos)
   - [As de guía](#as-de-guía)
@@ -18,14 +19,16 @@
 
 1. Sacas la carpa y la guardas
 2. Gallardete y bandera
-3. Defensas fuera
-4. Revisas si hay agua y si hay achicas
+3. Defensas las guardas en tambucho
+4. Revisas si hay agua en el barco levantando los pisos
+   > Si hay achicas con la bomba de achique manual
 5. Bajas la quilla
-6. Drizas de la mayor y de la de proa
-7. Chequeas motor
-8. Sacas la amarra de proa
-9. Agarras amarra de popa, vas caminando lentamente hacia pra y cuando se acomoda el barco, la soltas
-10. Con motor en marcha, timon derecho y salis
+6. Enganchas las drizas de la mayor y de la de proa
+7. Chequeas nafta del motor y lo arrancas
+  > Si hay problemas con el motor abortar la salida
+1. Sacas la amarra de proa
+2.  Agarras amarra de popa, vas caminando lentamente hacia proa y cuando se acomoda el barco, la soltas
+3.  Con motor en marcha, timon derecho y salis
 
 
 ## Fuerzas que intervienen en la salida
@@ -37,6 +40,12 @@
 
 > Salir siempre con el motor en marcha
 
+
+## Navegacion
+1. Salis a motor
+2. Llegando al canal hizas la mayor, la de proa y apagas el motor
+3. Siempre entre la roja y la verde
+4. Aclarar la maniobra lo antes posible
 
 ## Amarrar el barco
 

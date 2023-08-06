@@ -1,5 +1,6 @@
 - [Nudos](#nudos)
 - [Hombre al agua](#hombre-al-agua)
+- [Charlas](#charlas)
 
 
 # Nudos
@@ -27,3 +28,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gsGYlz2Iq6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bvy8RKU_038" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+# Charlas
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zYitsQ_uXt0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
