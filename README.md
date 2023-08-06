@@ -53,8 +53,8 @@ Timonel de yate a vela y motor
 -----------------
 
 ## Barcos
-- Rio de la Plata, Avan, Mistic, J24, Dolphing 32pies., Nautico II.
-	- Dolphing II, hace salidas miercoles, viernes y algun finde. Capitanes voluntarios a tener el mando.
+- Rio de la Plata, Avan, Mistic, J24, Dolphin II 32pies, Nautico II.
+	- Dolphin II, hace salidas miercoles, viernes y algun finde. Capitanes voluntarios a tener el mando.
   	- Cuando te anotas poner en Observaciones: Soy del curso de timonel.
 
 
@@ -63,18 +63,15 @@ Timonel de yate a vela y motor
 
 https://www.facebook.com/groups/claseriodelaplata/
 
+> Junco
+![](./images/rio.de.la.plata.junco.cnsi.jpg)
 
- ![](./images/rio.de.la.plata.junco.cnsi.jpg)
-
- ![](./images/NOTA.clase.rio.de.la.plata.jpg)
-
-
- ![](./images/video.laurel.mp4)
+![](./images/NOTA.clase.rio.de.la.plata.jpg)
 
 <video controls>
   <source src="./images/video.laurel.mp4" type="video/mp4">
 </video>
 
- > https://www.facebook.com/reel/1533333360380539
-
-El Laurel ayer, con Nico Volpini al timón, en una de las postales clásicas de nuestro río. Con 100 años de actividad, la escuela del C.N.S.I. continúa formando timoneles en un tradicional yacht de Argentina.  
+> Laurel
+> https://www.facebook.com/reel/1533333360380539
+> El Laurel ayer, con Nico Volpini al timón, en una de las postales clásicas de nuestro río. Con 100 años de actividad, la escuela del C.N.S.I. continúa formando timoneles en un tradicional yacht de Argentina.  
