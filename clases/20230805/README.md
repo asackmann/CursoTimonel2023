@@ -46,6 +46,13 @@
 2. Llegando al canal hizas la mayor, la de proa y apagas el motor
 3. Siempre entre la roja y la verde
 4. Aclarar la maniobra lo antes posible
+5. Si esta soplando mas hay que traer el timon al cuerpo, si afloja lo mantenes derecho
+7. Orsar y Derivar
+   - Orzar y cazar. Timon a la vela.
+  > La definicion es cerrar el angulo respecto al viento, de 90 a 45 grados por eje.
+  > <iframe width="560" height="315" src="https://www.youtube.com/embed/JT4D7YxblwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+   - Derivar y filar. Timon al cuerpo.
+   > La definicion es abrir el angulo respecto al viento, de 90 a 135 grados por eje.
 
 ## Amarrar el barco
 

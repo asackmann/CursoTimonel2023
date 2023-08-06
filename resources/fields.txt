@@ -1,0 +1,3 @@
+created_at,entry_id,field1,field2,field3,field4,field5,field6,field7,field8
+created_at,entry_id, field1,[Kn (Racha)],[Kn (Viento)],[Direccion viento],[° C (Temp)],[Humedad (gm/m)],[mm (Presión)],[mm Precip]
+ https://www.cnsi.org.ar/yachting/meteorologia/datos-meteorologicos-cnsi/
