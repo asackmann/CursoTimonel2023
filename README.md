@@ -1,15 +1,17 @@
 
 
+# Inicio 
 ![](_media/bg.jpeg) 
 
 https://asackmann.github.io/CursoTimonel2023/
 
+- [Inicio](#inicio)
 - [Certificado de Timonel de Yate](#certificado-de-timonel-de-yate)
 - [Curso Timonel 2do Sem 2023](#curso-timonel-2do-sem-2023)
 	- [Fechas](#fechas)
 	- [Modalidad](#modalidad)
-	- [Barcos](#barcos)
-		- [Clase Rio de la Plata](#clase-rio-de-la-plata)
+- [Barcos](#barcos)
+	- [Clase Rio de la Plata](#clase-rio-de-la-plata)
 
 
 # Certificado de Timonel de Yate
@@ -52,14 +54,19 @@ Timonel de yate a vela y motor
 
 -----------------
 
-## Barcos
-- Rio de la Plata, Avan, Mistic, J24, Dolphin II 32pies, Nautico II.
-	- Dolphin II, hace salidas miercoles, viernes y algun finde. Capitanes voluntarios a tener el mando.
-  	- Cuando te anotas poner en Observaciones: Soy del curso de timonel.
+# Barcos
+- Rio de la Plata
+- Avan
+- Mistic
+- J24
+- Dolphin II (32pies)
+  - Dolphin II, hace salidas miercoles, viernes y algun finde. Capitanes voluntarios a tener el mando.
+  -  Cuando te anotas poner en Observaciones: Soy del curso de timonel.
+-  Nautico II
 
 
 
-### Clase Rio de la Plata
+## Clase Rio de la Plata
 
 https://www.facebook.com/groups/claseriodelaplata/
 

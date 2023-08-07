@@ -26,6 +26,17 @@
 --------------------
 # Problemas
 
+> NOCIONES SOBRE LOS PROBLEMAS FUNDAMENTALES DE LA NAVEGACIÓN
+
+> Los cuatro problemas fundamentales: la dirección, la distancia, la posición (o situación) y la profundidad; conocimientos básicos sobre los elementos para su resolución.
+
+> - LA DIRECCIÓN. El compás de navegación: su descripción e instalación. Los factores que actúan sobre el compás magnético: el campo magnético terrestre; declinación magnética, su actualización. Los factores que afectan al compás magnético; el desvío de compás, la variación total. Que se obtiene del compás magnético; los rumbos verdaderos, magnético y compás. La pínula portátil de marcaciones; las marcaciones; las demoras; etc. Trazado de rumbos y marcaciones verdaderas en la carta y como obtener el rumbo a poner en el compás magnético yate de la embarcación. Dado un rumbo del compás magnético de navegación, determinar el correspondiente rumbo verdadero a trazar en la carta. Los factores externos que afectan al gobierno de la embarcación; viento, corriente, corriente de marea; deriva y abatimiento (forma práctica de apreciarlos). Diferencia entre rumbo y derrota.
+> - LA DISTANCIA. Unidades de distancia y velocidad: la milla y el nudo. Medición de la carta o croquis. Equivalencia entre millas y kilómetros, nudos y kilómetros por hora, brazas y metros. Distancia al horizonte marino.
+LA VELOCIDAD. Apreciación por distancia navegada y por corredera; la velocidad respecto del agua, del fondo (velocidad de propulsión y efectiva).
+> - LA POSICIÓN. Determinación de la posición por medio de puntos notables de la costa y del agua. Situarse en el agua y en la carta o croquis.
+> - LA PROFUNDIDAD. Apreciación por sondajes de mano y ecosonda. Unidades. Interpretación de los sondajes indicados en las cartas. 
+> - Interpretación de boletines meteorológicos y mareológicos (gráficos o radiales), su relación. Nivel medio, plano de reducción de sondaje. Ideas sobre mareas: causas que las producen; como interpretar y aplicar los datos que se obtienen de las tablas o boletines respecto de los sondajes de las cartas; altura de marea, duración y amplitud de la marea. El ciclo creciente, pleamar, bajante, bajamar. Corriente de marea, ciclo flujo, estoa, reflujo, estoa. Reconocimiento de las bajas profundidades por la forma de las costas, las rompientes, la forma de las olas, efectos del casco navegando, etc.). El calado, la profundidad, el sondaje y el margen de seguridad.
+
 
 ![Alt text](images/pizzaron3.png)
 
