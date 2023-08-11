@@ -1,3 +1,4 @@
+- [Pizarron](#pizarron)
 - [1. RUMBO](#1-rumbo)
   - [Norte verdadero](#norte-verdadero)
   - [Norte magnetico](#norte-magnetico)
@@ -9,10 +10,13 @@
 - [TAREA PARA LA PROX CLASE](#tarea-para-la-prox-clase)
 
 
------------------
-> NOTA //  
-> - 
---------------------
+
+# Pizarron
+
+
+![Alt text](1.jpeg)
+![Alt text](2.jpeg)
+
 # 1. RUMBO
 
 > Timonel: Navegacion por estima a vista de costa.
