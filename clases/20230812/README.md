@@ -3,12 +3,6 @@
   - [Navegacion](#navegacion)
 
 
------------------
-> NOTA //  
-> - 
---------------------
-
-
 # 2023/08/12 - PRACTICA - Segunda salida con un Rio de la Plata
 
 > NOTA // 
@@ -16,12 +10,12 @@
 
 
 <video controls>
-  <source src="1.mov" type="video/mov">
+  <source src="1.mov" type="video/quicktime">
 </video>
 
 
 <video controls>
-  <source src="2.mov" type="video/mov">
+  <source src="2.mov" type="video/quicktime">
 </video>
 
 ## Temas aprendidos
