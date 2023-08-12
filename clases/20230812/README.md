@@ -1,4 +1,4 @@
-- [2023/08/11 - PRACTICA - Segunda salida con un Rio de la Plata](#20230811---practica---segunda-salida-con-un-rio-de-la-plata)
+- [2023/08/12 - PRACTICA - Segunda salida con un Rio de la Plata](#20230812---practica---segunda-salida-con-un-rio-de-la-plata)
   - [Temas aprendidos](#temas-aprendidos)
   - [Navegacion](#navegacion)
 
@@ -9,7 +9,7 @@
 --------------------
 
 
-# 2023/08/11 - PRACTICA - Segunda salida con un Rio de la Plata
+# 2023/08/12 - PRACTICA - Segunda salida con un Rio de la Plata
 
 > NOTA // 
 >
