@@ -6,6 +6,16 @@
 > NOTA //  
 > - 
 --------------------
+
+
+# Pizarron
+
+
+![Alt text](1.jpeg)
+![Alt text](2.jpeg)
+![Alt text](3.jpeg)
+![Alt text](4.jpeg)
+
 # Repaso de ejercicios de la clase anterior
 
 ## Ajuste de la declinación magnética
