@@ -74,7 +74,9 @@ Angulo formado entre norte y eje de crujida, medido desde 0 hasta el eje.
   - Si esta hacia el oeste toma signo negativo
   - Hacia el oeste, signo positivo.
 - Rv = Rm + (+-Dm) + (+-dc) // Se incorpa el desvio compas, importante para navegaciones largas.
-
+- Variacion total = (+-Dm) + (+-dc)
+- > Por convencion si pasas los 30 minutos de arco, se redondea a 1 grado superior.
+- > Ej> 110 gr 40 min 10 seg, se redondea a 111 grados.
 ## Equivalencias 
 - 1 minuto de arco de latitud, 1 milla nautica.
 - 1852 metros (1.85 kms), 1 milla nautica. 
