@@ -1,9 +1,9 @@
-- [2023/08/12 - PRACTICA - Segunda salida con un Rio de la Plata](#20230812---practica---segunda-salida-con-un-rio-de-la-plata)
+- [2023/08/12 - PRÁCTICA - Segunda salida con un Río de la Plata](#20230812---práctica---segunda-salida-con-un-río-de-la-plata)
   - [Temas aprendidos](#temas-aprendidos)
-  - [Navegacion](#navegacion)
+  - [Navegación](#navegación)
 
 
-# 2023/08/12 - PRACTICA - Segunda salida con un Rio de la Plata
+# 2023/08/12 - PRÁCTICA - Segunda salida con un Río de la Plata
 
 > NOTA // 
 >
@@ -21,14 +21,15 @@
 ## Temas aprendidos
 
 - [x] **Maniobras de salida de la amarra**
-  - Uno suelta la amarra de proa, otro desde popa camina a proa, cuando pasa por travez, timon a estribor, luego cuando llega a proa tira para arriba, timon a babor, el barco se acomoda mirando al viento, finalmente se suelta la amarra de popa.
+  - Uno suelta la amarra de proa, otro desde popa camina a proa, cuando pasa por través, timón a estribor, luego cuando llega a proa tira para arriba, timón a babor, el barco se acomoda mirando al viento, finalmente se suelta la amarra de popa.
+  - Tema cantidad de agua, había 1 metro en la regleta, y mi duda era si el Rio de la plata cala 1.30 no podíamos salir, pero no es así, podés salir con hasta 0.10 cm de la regleta. El otro tema son otros barcos, mirar si hay alguien varado, si hay alguien varado, no salir.
   
 - [x] **Maniobras de llegada a la amarra**
-  - Te pasas, apuntas al barco que esta a babor, uno pesca la amarra, otro frena el barco tirando de la amarra de popa, se amarra en proa y en popa.
+  - Te pasas, apuntas al barco que está a babor, uno pesca la amarra, otro frena el barco tirando de la amarra de popa, se amarra en proa y en popa.
 
-## Navegacion
+## Navegación
 
-- Cuando sopla fuerte tenes que mantener el timon al cuerpo, de lo contrario el barco se va a orsar naturalmente si no agarras el timon.
-- Cuando el viento viene de tierra normalmente viene rachado. Sucio, por los vientos que chocan con los edificios, arboles, etc.
-- Cuando el viento viene de agua, es mas limpio, mas parejo.
-- Se tomo la pocision apuntando a la catedral cuando pasamos una boya.
+- Cuando sopla fuerte tenés que mantener el timón al cuerpo, de lo contrario el barco se va a orsar naturalmente si no agarras el timón.
+- Cuando el viento viene de tierra, normalmente viene racheado. Sucio, por los vientos que chocan con los edificios, árboles, etc.
+- Cuando el viento viene de agua, es más limpio, más parejo.
+- Se tomó la posición apuntando a la catedral cuando pasamos una boya.
