@@ -1,5 +1,6 @@
 - [YouTube Playlists](#youtube-playlists)
 - [Nudos](#nudos)
+- [Lanzamiento cabo](#lanzamiento-cabo)
 - [Hombre al agua](#hombre-al-agua)
 - [Charlas](#charlas)
 
@@ -26,6 +27,16 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T3CByQOjwas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FiBlv0mEcZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# Lanzamiento cabo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xE0wZIW2nog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2rlecXR_l9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vMwrS_A36kQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vwC2d-a5_gg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Hombre al agua
 
