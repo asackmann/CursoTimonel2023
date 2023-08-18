@@ -16,6 +16,7 @@
 
 ![Alt text](1.jpeg)
 ![Alt text](2.jpeg)
+![Alt text](conceptodelamillamarina.jpg)
 
 # 1. RUMBO
 
@@ -146,4 +147,3 @@ Material del drive
          - El 3 y 4 NO aparece 2010 y 2008, serian para actualizar la declinacion magnetica.
      - Ejercicios de rumbo
        - Completar, y traer grafico y rumbos.
-
