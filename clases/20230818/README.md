@@ -1,5 +1,6 @@
 - [2023/08/18 - TEORIA - 3.](#20230818---teoria---3)
   - [Repaso](#repaso)
+- [Tarea](#tarea)
 
 
 -----------------
@@ -33,7 +34,7 @@
        -  1.A. Recta aislada.
        -  1.B. Isovatas
           - Con las isovatas tambien se puede que estan en la carta.
-        - 1.C. Marcacion sucesiva aun mismo punto. / Estimada, comparada con las otras dos es la mas precisa.
+        - 1.C. Marcacion sucesiva a un mismo punto. / Estimada, comparada con las otras dos es la mas precisa.
           - Hacer coincidir una linea de pocision, tenes un solo punto notable.
           - Corrige 
           - A una hora bitacora determinada, con un rumbo determinado x, y hace dias no tenes pocision, de repente tenes un faro o una antena.
@@ -66,6 +67,11 @@
               - Vas con el compas a la primera marcacion y con la distancia de 1 milla te da el punto.
               - Llevas la primera linea de pocision al punto de la distancia usando las reglas paralelas.
               - Cruzas las dos lineas.
+              - > Aprender a trasladar la recta con las reglas paralelas.
+              - OTRO CASO
+                -  Si me dio fuera del triangulo 7 millas por ejemplo.
+                -  La tecnia es lo mismo pero unis las rectas por la izq.
+             -  Tolerancia son 30 minutos max para trasladar rectas.
 
 
             - Entrenar tu hojo, te fijas de ves de una boya a otra de KM.
@@ -101,3 +107,9 @@
   > Marcación magnética 250 grados a catedral, verdadera de 240
   > Rumbo magnético 300 grados 
   > Enfilado entre beril babor 21 y estribor 22
+
+
+  # Tarea
+  - Comenzar con los ejercicios de navegación timonel 
+    - Colonia 1, 2, 3, 6, 7. 
+    - Carta Arg 1,2,3,4,5,6,7
