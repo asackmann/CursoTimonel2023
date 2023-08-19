@@ -8,3 +8,4 @@ Apuntes de clases del curso de timonel de yate a vela y motor.
  4. [2023/08/05 - PRACTICA - Primer salida con un Rio de la Plata](./clases/20230805/README.md)
  5. [2023/08/11 - TEORIA - 2. RUMBO](./clases/20230811/README.md)
  6. [2023/08/12 - PRACTICA - Segunda salida con un Rio de la Plata](./clases/20230812/README.md)
+ 7. [2023/08/18 - TEORIA - 3. Practica con marcacion](./clases/20230818/README.md)
