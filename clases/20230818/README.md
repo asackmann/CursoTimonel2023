@@ -9,10 +9,10 @@
 --------------------
 # 2023/08/18 - TEORIA - 3. 
 
-![Alt text](GrafRumbo.jpeg)
-![Alt text](CalculoDm.jpeg)
-![Alt text](CalculoDm.jpeg)
+![Alt text](GrafRumbo.jpg)
+![Alt text](CalculoDm.jpg)
 ![Alt text](temadeexamen.jpeg)
+![Alt text](temadeexamen2.jpeg)
 
 
 
