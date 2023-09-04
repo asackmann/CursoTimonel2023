@@ -1,12 +1,10 @@
-- [t](#t)
-  - [Ejercicios de amarra](#ejercicios-de-amarra)
+- [Ejercicios de amarra](#ejercicios-de-amarra)
 
 
 -----------------
 > NOTA //  
 > - 
 --------------------
-# t
 
 
 
