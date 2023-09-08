@@ -1,4 +1,4 @@
-- [t](#t)
+- [2023/09/02 - PRACTICA - Salida con J24](#20230902---practica---salida-con-j24)
   - [Ejercicios de amarra](#ejercicios-de-amarra)
 
 
@@ -6,7 +6,7 @@
 > NOTA //  
 > - 
 --------------------
-# t
+# 2023/09/02 - PRACTICA - Salida con J24
 
 
 

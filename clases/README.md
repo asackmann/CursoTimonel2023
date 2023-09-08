@@ -14,3 +14,4 @@ Apuntes de clases del curso de timonel de yate a vela y motor.
 10. 2023/08/26 - PRACTICA - FALTE
 11. [2023/09/01 - TEORIA - 4.Ejercicios con carta COLONIA](./clases/20230901/README.md)
 12. [2023/09/02 - PRACTICA - Salida con J24 ](./clases/20230902/README.md)
+12. [2023/09/08 - TEORIA - 5. Rol ](./clases/20230908/README.md)

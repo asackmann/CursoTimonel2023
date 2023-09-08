@@ -1,4 +1,4 @@
-- [2023/08/18 - TEORIA - 3.](#20230818---teoria---3)
+- [2023/08/18 - TEORIA - 3. Practica con marcacion](#20230818---teoria---3-practica-con-marcacion)
   - [Repaso](#repaso)
 - [Tarea](#tarea)
 
@@ -7,16 +7,12 @@
 > NOTA //  
 > - 
 --------------------
-# 2023/08/18 - TEORIA - 3. 
+# 2023/08/18 - TEORIA - 3. Practica con marcacion
 
 ![Alt text](GrafRumbo.jpg)
 ![Alt text](CalculoDm.jpg)
 ![Alt text](temadeexamen.jpeg)
 ![Alt text](temadeexamen2.jpeg)
-
-
-
-
 
 ## Repaso 
 
