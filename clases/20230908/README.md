@@ -44,6 +44,6 @@
 https://www.argentina.gob.ar/noticias/prefectura-y-la-busqueda-y-rescate-sar
 
 - 3 fases
-- 1. Alerta
+- 1. Primer fase de busqueda y rescate. Fase de incertidumbre.
 - 2. Busqueda
 - 3. Rescate
