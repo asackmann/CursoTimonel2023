@@ -39,7 +39,10 @@ Timonel de yate a vela y motor
 - Examen Escrito - jueves 07 de diciembre
 - Examen Oral – jueves 14 de diciembre
 - Examen Practico – sábado 16 de diciembre // Puede llegar a ser Viernes. 15 dic.
-- Viajes a Colonia en el Barco Náutico – 14 y 15 de octubre –18 y 19 de noviembre (Fechas tentativas)
+- Viajes a Colonia en el Barco Náutico II, y dos o 3 barcos mas voluntarios.
+  - 11 y 12 Nov fecha confirmada.
+    - Si se pasa por cuestiones meteorologicas.
+    - 18 y 19 Nov. 
 ---
 ## Modalidad
 - 20 clases teoricas 
