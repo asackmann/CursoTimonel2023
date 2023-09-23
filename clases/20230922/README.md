@@ -26,3 +26,9 @@
 - Cuando sos patron, es el calculo magico para las tablas de desvio, pero se hace con rumbo compas, para sacar el desvio compas.
 
 ## Examen corregido
+
+![Alt text](Examen1.png)
+![Alt text](Examen2.png)
+![Alt text](Examen3.png)
+![Alt text](Examen4.png)
+![Alt text](rumbo.marcacion.demora.png)
