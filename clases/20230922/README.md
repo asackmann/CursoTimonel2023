@@ -31,4 +31,6 @@
 ![Alt text](Examen2.png)
 ![Alt text](Examen3.png)
 ![Alt text](Examen4.png)
+![Alt text](Examen4.lineas.1.png)
+![Alt text](Examen4.lineas.2.png)
 ![Alt text](rumbo.marcacion.demora.png)
