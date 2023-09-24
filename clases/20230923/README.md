@@ -12,3 +12,9 @@
 
 
 ##  
+
+
+![Alt text](salida1.jpg)
+![Alt text](meteo.png)
+![Alt text](salida2.mp4)
+![Alt text](salida3.mp4)
