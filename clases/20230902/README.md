@@ -9,11 +9,11 @@
 # 2023/09/02 - PRACTICA - Salida con J24
 
 
-![Alt text](salida.jpg)
-![Alt text](salida1.jpg)
-![Alt text](salida2.jpg)
-![Alt text](salida3.jpg)
-![Alt text](salida4.jpg)
+![Alt text](salida.jpeg)
+![Alt text](salida1.jpeg)
+![Alt text](salida2.jpeg)
+![Alt text](salida3.jpeg)
+![Alt text](salida4.jpeg)
 
 ## Ejercicios de amarra
 
