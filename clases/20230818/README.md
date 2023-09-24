@@ -13,7 +13,15 @@
 ![Alt text](CalculoDm.jpg)
 ![Alt text](temadeexamen.jpeg)
 ![Alt text](temadeexamen2.jpeg)
-
+![Alt text](1.1.jpeg)
+![Alt text](1.2.jpeg)
+![Alt text](1.3.jpeg)
+![Alt text](2.0.jpeg)
+![Alt text](2.1.jpeg)
+![Alt text](2.2.jpeg)
+![Alt text](2.3.jpeg)
+![Alt text](3.0.jpeg)
+![Alt text](3.1.jpeg)
 ## Repaso 
 
  -  Lineas de posicion, con la pinula o lineas visuales.

@@ -11,3 +11,8 @@
 > NOTA // 
 
 ##  
+
+![Alt text](avan.pampero.jpeg)
+![Alt text](avan.pampero1.jpeg)
+![Alt text](avan.pampero2.jpeg)
+![Alt text](avan.pampero2.mov)

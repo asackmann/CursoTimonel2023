@@ -9,6 +9,11 @@
 
 # 2023/09/01 - TEORIA - 4.Ejercicios con carta COLONIA
 
+
+![Alt text](machete.trasladar.recta.jpeg)
+![Alt text](practicando.ej.colonia.jpeg)
+
+
 ## Ejercicios de amarra
 
 CASO1.
