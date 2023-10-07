@@ -20,9 +20,9 @@ Apuntes de clases del curso de timonel de yate a vela y motor.
 16. [2023/09/16 - PRÁCTICA - 7. Salida con Avan](./clases/20230916/README.md)
 17. [2023/09/22 - TEORÍA - 8. Corrección examen](./clases/20230922/README.md)
 18. [2023/09/23 - PRÁCTICA - 8. Salida con Río de la plata ](./clases/20230923/README.md)
-19. 2023/09/29 - TEORÍA - 9. Ejercicios con Nico
-20. 2023/09/30 - PRÁCTICA - 9. Hombre al agua?
-21. 2023/10/06 - TEORÍA - 10. Zoom - Valizas
+19. 2023/09/29 - TEORÍA - 9. Ejercicios con Nico - FALTE
+20. [2023/09/30 - PRÁCTICA - 9. Hombre al agua?](./clases/20230930/README.md)
+21. [2023/10/06 - TEORÍA - 10. Zoom - Valizas](./clases/20231006/README.md)
 22. 2023/10/07 - PRÁCTICA - 10. FALTE / Vacaciones
 23. 2023/10/13 - TEORÍA - 11. FALTE / Vacaciones
 24. 2023/10/14 - PRÁCTICA - 11. FALTE / Vacaciones
