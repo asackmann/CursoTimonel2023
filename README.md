@@ -36,7 +36,7 @@ Para manejar embarcaciones deportivas de hasta 12 metros (39 pies) de eslora que
 Timonel de yate a vela y motor
 
 ## Fechas
-- Examen Escrito - jueves 07 de diciembre
+- Examen Escrito - viernes 08 de diciembre
 - Examen Oral – jueves 14 de diciembre
 - Examen Practico – sábado 16 de diciembre // Puede llegar a ser Viernes. 15 dic.
 - Viajes a Colonia en el Barco Náutico II, y dos o 3 barcos mas voluntarios.
