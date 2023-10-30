@@ -1,8 +1,14 @@
-- [Quizzes](#quizzes)
 - [Meteorologia](#meteorologia)
+- [Normas para salir en el Nautico II](#normas-para-salir-en-el-nautico-ii)
+- [Quizzes](#quizzes)
 - [Videos](#videos)
 
+# Meteorologia
 
+https://www.cnsi.org.ar/yachting/meteorologia/
+
+# Normas para salir en el Nautico II
+- [Normas n2](normas.n2.md) 
 # Quizzes
 
 Queridos Timoneles,
@@ -36,9 +42,7 @@ Suerte y saludos!!!
 | 12 | [Boyas de noche - Timoneles ](https://docs.google.com/forms/d/e/1FAIpQLSdXXe2ZNOJwVxAXMZNIBh_mJyIdsJlQWTpFG12o3rGtjM2CoQ/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link)                |
 | 13 | [Mareas - Timonel  ](https://docs.google.com/forms/d/e/1FAIpQLSfcB4xF30zlWw0Mr96nxeC9g3NjM1A0H72FJKC89OkklggiKw/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link)                         |
 
-# Meteorologia
 
-https://www.cnsi.org.ar/yachting/meteorologia/
 
 # Videos
 

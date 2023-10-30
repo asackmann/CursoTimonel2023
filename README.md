@@ -8,10 +8,11 @@ https://asackmann.github.io/CursoTimonel2023/
 - [Inicio](#inicio)
 - [Certificado de Timonel de Yate](#certificado-de-timonel-de-yate)
 - [Curso Timonel 2do Sem 2023](#curso-timonel-2do-sem-2023)
-	- [Fechas](#fechas)
-	- [Modalidad](#modalidad)
+  - [Programa de examen para timonel de yate](#programa-de-examen-para-timonel-de-yate)
+  - [Fechas](#fechas)
+  - [Modalidad](#modalidad)
 - [Barcos](#barcos)
-	- [Clase Rio de la Plata](#clase-rio-de-la-plata)
+  - [Clase Rio de la Plata](#clase-rio-de-la-plata)
 
 
 # Certificado de Timonel de Yate
@@ -34,6 +35,9 @@ Para manejar embarcaciones deportivas de hasta 12 metros (39 pies) de eslora que
 # Curso Timonel 2do Sem 2023
 
 Timonel de yate a vela y motor
+
+## Programa de examen para timonel de yate
+- [Programa](programa.md) 
 
 ## Fechas
 - Examen Escrito - viernes 08 de diciembre
