@@ -1,20 +1,16 @@
-- [Examen parcial II](#examen-parcial-ii)
-  - [Parcial con ejercicios reales](#parcial-con-ejercicios-reales)
-  - [Ejercicios del final](#ejercicios-del-final)
+- [Practica. Salida con AVAN con Nico](#practica-salida-con-avan-con-nico)
+  - [Practica de Hombre al agua](#practica-de-hombre-al-agua)
 
 
 -----------------
 > NOTA //  
 > - 
 --------------------
-# Examen parcial II
+# Practica. Salida con AVAN con Nico
 
 
 
-## Parcial con ejercicios reales
+## Practica de Hombre al agua
 
  -  
 
-## Ejercicios del final
-
-- 
