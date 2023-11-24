@@ -1,4 +1,4 @@
-
+![](./images/pabellon.argentina.jpeg)
 
 # Inicio 
 ![](_media/bg.jpeg) 
@@ -13,6 +13,8 @@ https://asackmann.github.io/CursoTimonel2023/
   - [Modalidad](#modalidad)
 - [Barcos](#barcos)
   - [Clase Rio de la Plata](#clase-rio-de-la-plata)
+  - [Avan](#avan)
+  - [Nautico II](#nautico-ii)
 
 
 # Certificado de Timonel de Yate
@@ -40,9 +42,9 @@ Timonel de yate a vela y motor
 - [Programa](programa.md) 
 
 ## Fechas
-- Examen Escrito - viernes 08 de diciembre
-- Examen Oral – jueves 14 de diciembre
-- Examen Practico – sábado 16 de diciembre // Puede llegar a ser Viernes. 15 dic.
+- Examen Escrito - Viernes 08 de diciembre / 17 hs
+- Examen Oral – Jueves 14 de diciembre
+- Examen Practico – Sábado 16 de diciembre 
 - Viajes a Colonia en el Barco Náutico II, y dos o 3 barcos mas voluntarios.
   - 11 y 12 Nov fecha confirmada.
     - Si se pasa por cuestiones meteorologicas.
@@ -89,3 +91,17 @@ https://www.facebook.com/groups/claseriodelaplata/
 > Laurel
 > https://www.facebook.com/reel/1533333360380539
 > El Laurel ayer, con Nico Volpini al timón, en una de las postales clásicas de nuestro río. Con 100 años de actividad, la escuela del C.N.S.I. continúa formando timoneles en un tradicional yacht de Argentina.  
+
+## Avan
+
+![](./images/avan08.jpeg)
+![](./images/avan.volviendo.remolque.jpeg)
+![](./images/aysa.jpeg)
+
+## Nautico II
+
+![](./images/nauticoII.1.jpeg)
+![](./images/nauticoII.2.jpeg)
+<video controls>
+  <source src="./images/nauticoII.mp4" type="video/mp4">
+</video>
