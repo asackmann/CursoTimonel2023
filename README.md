@@ -1,5 +1,7 @@
 ![](./images/pabellon.argentina.jpeg)
 
+
+
 # Inicio 
 ![](_media/bg.jpeg) 
 
@@ -11,10 +13,7 @@ https://asackmann.github.io/CursoTimonel2023/
   - [Programa de examen para timonel de yate](#programa-de-examen-para-timonel-de-yate)
   - [Fechas](#fechas)
   - [Modalidad](#modalidad)
-- [Barcos](#barcos)
-  - [Clase Rio de la Plata](#clase-rio-de-la-plata)
-  - [Avan](#avan)
-  - [Nautico II](#nautico-ii)
+  - [Barcos](#barcos)
 
 
 # Certificado de Timonel de Yate
@@ -63,45 +62,7 @@ Timonel de yate a vela y motor
 
 -----------------
 
-# Barcos
-- Rio de la Plata
-- Avan
-- Mistic
-- J24
-- Dolphin II (32pies)
-  - Dolphin II, hace salidas miercoles, viernes y algun finde. Capitanes voluntarios a tener el mando.
-  -  Cuando te anotas poner en Observaciones: Soy del curso de timonel.
--  Nautico II
 
+## Barcos
 
-
-## Clase Rio de la Plata
-
-https://www.facebook.com/groups/claseriodelaplata/
-
-> Junco
-![](./images/rio.de.la.plata.junco.cnsi.jpg)
-
-![](./images/NOTA.clase.rio.de.la.plata.jpg)
-
-<video controls>
-  <source src="./images/video.laurel.mp4" type="video/mp4">
-</video>
-
-> Laurel
-> https://www.facebook.com/reel/1533333360380539
-> El Laurel ayer, con Nico Volpini al timón, en una de las postales clásicas de nuestro río. Con 100 años de actividad, la escuela del C.N.S.I. continúa formando timoneles en un tradicional yacht de Argentina.  
-
-## Avan
-
-![](./images/avan08.jpeg)
-![](./images/avan.volviendo.remolque.jpeg)
-![](./images/aysa.jpeg)
-
-## Nautico II
-
-![](./images/nauticoII.1.jpeg)
-![](./images/nauticoII.2.jpeg)
-<video controls>
-  <source src="./images/nauticoII.mp4" type="video/mp4">
-</video>
+Ver [Listado de Barcos escuela del CNSI](barcos.md)
