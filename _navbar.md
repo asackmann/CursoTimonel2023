@@ -1,3 +1,3 @@
 [Home](/)
-[Clases](clases/)
 [Recursos](recursos.md)
+[Clases](clases/)
