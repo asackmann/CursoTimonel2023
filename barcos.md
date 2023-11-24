@@ -3,6 +3,7 @@
   - [Avan](#avan)
   - [Mistic](#mistic)
   - [J24](#j24)
+  - [Dolphin II](#dolphin-ii)
   - [Nautico II](#nautico-ii)
 
 # Barcos escuela CNSI
@@ -58,6 +59,11 @@ Calado
 
 Calado
 - 1.40m
+
+## Dolphin II 
+
+Calado
+- ??
 
 ## Nautico II
 
