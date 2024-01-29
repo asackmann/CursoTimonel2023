@@ -76,9 +76,7 @@
                 -  Si me dio fuera del triangulo 7 millas por ejemplo.
                 -  La tecnia es lo mismo pero unis las rectas por la izq.
              -  Tolerancia son 30 minutos max para trasladar rectas.
-
-
-            - Entrenar tu hojo, te fijas de ves de una boya a otra de KM.
+             - Entrenar tu ojo, te fijas de ves de una boya a otra de KM.
     -  2. Marcaciones simultanesa a dos puntos, es una de las tecnicas.
        -  Pinula marcacion 1 antena, rumbo, velocidad, hora bitacora y marcacion magnetica1.
        -  Puntla marcacion 2 catedral rumbo, velocidad, hora bitacora y marcacion magnetica1.
@@ -93,7 +91,6 @@
           - Vas a la carta unis los puntos notables sacas la linea.
      - 5. Dos enfilaciones, simultanea por medio de dos enfilaciones
        - Catedral y una antena
-       
     - Para minimizar el error, cuando tomas marcaciones, y si son 3 tiene que existir una tecnica de marcacion, por la cenida y aleta, y por ultimo traves.
       - El traves es una marcacion precisa pero tenes que ser rapido para tomarla.
       - Tiras a cenida, aleta, travez. 
