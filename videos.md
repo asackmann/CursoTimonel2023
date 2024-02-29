@@ -8,6 +8,14 @@
 
 - [Agustinsack - Timonel](https://www.youtube.com/playlist?list=PLROIGNC-x-dfM8e6aOmmmX939f_GEgoEm)
 
+# Peliculas
+
+-  [Espiritu libre ![Screenshot by Dropbox Capture](https://github.com/asackmann/CursoTimonel2023/assets/18334151/ae4d0c16-b1d1-4218-b27a-0255ec89a3f8)](https://www.netflix.com/watch/81054619?trackId=255824129&tctx=0%2C0%2Ca7182fc6-988f-4f62-9378-c2815fbf9a18-125894141%2Ca7182fc6-988f-4f62-9378-c2815fbf9a18-125894141%7C2%2Cunknown%2C%2C%2CtitlesResults%2C81054619%2CVideo%3A81054619%2CminiDpPlayButton)
+
+
+- [Al descubierto: la regata del siglo ![Screenshot by Dropbox Capture](https://github.com/asackmann/CursoTimonel2023/assets/18334151/27261a2b-2349-40f1-8a8d-914122c66c9f)](https://www.netflix.com/watch/81026435?trackId=255824129&tctx=6%2C40%2Ca7182fc6-988f-4f62-9378-c2815fbf9a18-125894141%2Ca7182fc6-988f-4f62-9378-c2815fbf9a18-125894141%7C2%2Cunknown%2C%2C%2CtitlesResults%2C81026435%2CVideo%3A81026435%2CminiDpPlayButton)
+
+
 # Nudos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H9k4ZFK4XPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
