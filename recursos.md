@@ -7,6 +7,8 @@
 
 https://www.cnsi.org.ar/yachting/meteorologia/
 
+https://www.youtube.com/@chinonautico/videos
+
 # Normas para salir en el Nautico II
 - [Normas n2](normas.n2.md) 
 # Quizzes
