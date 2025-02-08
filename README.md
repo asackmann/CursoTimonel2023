@@ -8,6 +8,7 @@
 https://asackmann.github.io/CursoTimonel2023/
 
 - [Inicio](#inicio)
+- [ASISTENCIA:](#asistencia)
 - [Certificado de Timonel de Yate](#certificado-de-timonel-de-yate)
 - [Curso Timonel 2do Sem 2023](#curso-timonel-2do-sem-2023)
   - [Programa de examen para timonel de yate](#programa-de-examen-para-timonel-de-yate)
@@ -15,6 +16,13 @@ https://asackmann.github.io/CursoTimonel2023/
   - [Modalidad](#modalidad)
   - [Barcos](#barcos)
 
+# ASISTENCIA:
+- Teoria: 17/19  / (falte 3) / 89% de asistencia
+  - Falte 2 teoria de ejercicios, 
+  - Voy a faltar 1 teoria
+- Practica: 14/20 / (falte 6) / 80% de asistencia
+  - Falte 5 practicas por vacas.
+  - Voy a faltar 1 practica mas por Chalten.
 
 # Certificado de Timonel de Yate
 
