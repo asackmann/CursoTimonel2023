@@ -67,11 +67,46 @@ Calado
 
 ## Nautico II
 
+NAUTICO II - ARG5500	
+
+- Clase PHRF 
+- https://en.wikipedia.org/wiki/Performance_Handicap_Racing_Fleet
+- https://www.cic.org.ar/formula-phrf.php
+- http://cic.org.ar/subpaginas/listaderatings.html
+
+
+
+https://germanfrers.net/portfolio_cats/custom/page/3/
+
+Frers 60
+
 Calado
 - 1.70m
+- Length Overall	18,5
+- Waterline Length	15,18
+- Beam	4,3
+- Draft	1.5 / 3.5
+- Displacement	19500
+- Yard	Astillero Aries
+- Year	2010
+
+
+German Frers Design Nautico II: The Flagship of the San Isidro Yacht Club
+
+The Nautico II holds the prestigious position of being the flagship yacht of the esteemed San Isidro Yacht Club. This vessel measures 18,5 meters in length overall and showcases a neoclassic design.
+
+German Frers’ visionary design philosophy is evident throughout Nautico II. Its neoclassic styling blends timeless elegance with modern functionality, creating a yacht that is both visually striking and practical in its use.
+
+As the pride of the San Isidro Yacht Club, this neoclassic symbolizes excellence and represents the highest standards of yacht design. Its presence is sure to captivate onlookers, both at the dock and during its ventures on the water.
+
+The Nautico was built in 2010 by Astillero Aries.
+
 
 ![](./images/nauticoII.1.jpeg)
 ![](./images/nauticoII.2.jpeg)
+![Alt text](https://germanfrers.net/wp-content/uploads/2016/03/1216-Nautico-2-1-1.jpg)
+![Alt text](https://germanfrers.net/wp-content/uploads/2016/03/1216-Nautico-2-2-1.jpg)
+
 <video controls>
   <source src="./images/nauticoII.mp4" type="video/mp4">
 </video>
